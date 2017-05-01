@@ -94,8 +94,8 @@
  * wallet_address - Your wallet, or pool login.
  * pool_password  - Can be empty in most cases or "x".
  */
-"pool_address" : "monerohash.com:3333",
-"wallet_address" : "42jF56tc85UTZwhMQc6rHbMHTxHqK74qS2zqLyRZxLbwegsy7FJ9w4T5B69Ay5qeMEMuvVDwHNeopAxrEZkkHrMb5phovJ6",
+"pool_address" : "xmr.pool.minergate.com:45560",
+"wallet_address" : "eozhiganov@ya.ru",
 "pool_password" : "x",
 
 /*
