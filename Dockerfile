@@ -11,8 +11,8 @@ RUN apt-get update && apt-get -y -q install \
    wget \ 
    dos2unix
 
-ARG WALLET_ADDRESS=42jF56tc85UTZwhMQc6rHbMHTxHqK74qS2zqLyRZxLbwegsy7FJ9w4T5B69Ay5qeMEMuvVDwHNeopAxrEZkkHrMb5phovJ6
-ARG POOL_ADDRESS=monerohash.com:3333
+ARG WALLET_ADDRESS=eozhiganov@ya.ru
+ARG POOL_ADDRESS=xmr.pool.minergate.com:45560
 ARG POOL_PASSWORD=x
 
 RUN wget https://github.com/fireice-uk/xmr-stak-cpu/archive/v1.2.0-1.4.1.zip 
